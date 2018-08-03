@@ -418,10 +418,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     <div class="col-md-4">
       <h4 id="editor-macosx">Mac OS X</h4>
       <p>
-        We recommend <a href="http://macromates.com/download" title="Download — TextMate">TextMate 2</a>, which is a free, robust, open-source editor for Mac OS X. Some instructors will be using it during the bootcamp.
+        We recommend <a href="https://atom.io">Atom</a>, which is a free, robust, open-source editor for Mac OS X. Some instructors will be using it during the bootcamp.
       </p>
       <p>
-        Others editors that you can use are <a href="https://atom.io">Atom</a>,
+        Others editors that you can use are <a href="http://macromates.com/download" title="Download — TextMate">TextMate 2</a>,
         <a href="http://www.barebones.com/products/textwrangler/">Text Wrangler</a> or
         <a href="http://www.sublimetext.com/">Sublime Text</a>.
       </p>
